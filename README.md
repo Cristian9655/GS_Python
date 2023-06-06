@@ -1,1 +1,2 @@
 # Plataforma de Agricultura Sustentável para Pequenos Agricultores
+A plataforma de Agricultura Sustentável para Pequenos Agricultores é uma solução online desenvolvida para ajudar os agricultores a melhorarem a eficiência de suas fazendas, aumentando a produtividade e contribuindo para a redução da fome no mundo. A plataforma fornece informações, sugestões de inovações e melhores práticas em todas as etapas dos processos agrícolas, desde a preparação do terreno até a logística de transporte e armazenamento dos grãos.
