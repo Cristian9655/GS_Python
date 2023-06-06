@@ -121,6 +121,9 @@ def cadastrar_funcionario(funcionario):
     nome = input("Digite o nome do funcionário: ")
     cargo = input("Digite o cargo do funcionário: ")
     setor = input("Digite o setor do funcionário (pre-campo, campo, pos-campo): ")
+    while setor not in ["pre-campo", "campo", "pos-campo"]:
+        print("Valor inválido! Por favor, digite novamente.")
+        setor = input("Digite o setor do funcionário (pre-campo, campo, pos-campo): ")
     novo_funcionario = {"id": len(funcionario) + 1, "nome": nome, "cargo": cargo, "setor": setor}
 
     funcionario.append(novo_funcionario)
