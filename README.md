@@ -1,1 +1,1 @@
-# GS_Python
+# Plataforma de Agricultura Sustentável para Pequenos Agricultores
