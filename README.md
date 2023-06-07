@@ -1,6 +1,19 @@
 # Plataforma de Agricultura Sustentável para Pequenos Agricultores
 A plataforma de Agricultura Sustentável para Pequenos Agricultores é uma solução online desenvolvida para ajudar os agricultores a melhorarem a eficiência de suas fazendas, aumentando a produtividade e contribuindo para a redução da fome no mundo. A plataforma fornece informações, sugestões de inovações e melhores práticas em todas as etapas dos processos agrícolas, desde a preparação do terreno até a logística de transporte e armazenamento dos grãos.
 
+## Integrantes
+
+551289 - Diego Seiti Ogita Iacabo
+
+98376 - João Lucas Marques Costa
+
+93606 - Alejandro Rabelo
+
+550509 - Cristian Alvaro Condori Paucara
+
+550348 - Luiz Felipe Azevedo de Oliveira
+
+
 ## Funcionamento da Plataforma
 A plataforma é dividida em três seções principais:
 
